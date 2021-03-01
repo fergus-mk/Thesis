@@ -17,7 +17,16 @@ If someone found this topic interesting and wanted to take it further I think it
 
 4.Additional input datasets (such as one inorporating urban area/ a drainage basin dataset should be used)
 
-5.The scikit-learn component should be improved with a. better bootstrapping, and b. hyperparameter optimisation  
+5.The scikit-learn component should be improved with a. better bootstrapping, and b. hyperparameter optimisation 
+
+
+The files uploaded so far are:
+
+A. The initial query to access flood defences from Geofabrik - GeofabrikQuery.ipynb
+
+B. Calculating summary statistics for classified flood defence points - SummaryStats.py
+
+C. Using these stats to classify the entire datset - ClassPointsFinal.ipynb
 
 _Thanks for visiting this repository_
 
