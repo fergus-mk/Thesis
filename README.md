@@ -5,7 +5,7 @@ flood defences in OpenStreetMap for the purpose of hydrological modelling.
 
 _I will include a fuller descritpion at a later stage, I will also upload neater versions of the code if I have time_
 
-__Known Issues/ Improvments Recommended__
+__Known Issues/ Improvements Recommended__
 
 If someone found this topic interesting and wanted to take it further I think it needs some improvments:
 
