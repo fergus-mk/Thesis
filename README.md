@@ -3,7 +3,7 @@
 This is a repository for my Earth Science MSc thesis. The thesis is an attempt to the quality of tagged
 flood defences in OpenStreetMap for the purpose of hydrological modelling.
 
-_I will include a fuller descritpion at a later stage, I will also upload neater versions of the code if I have time_
+_I will include a more complete descritpion at a later stage, I will also upload neater versions of the code if I have time._
 
 __Known Issues/ Improvements Recommended__
 
@@ -22,6 +22,6 @@ The files uploaded so far are:
 - Calculating summary statistics for classified flood defence points - SummaryStats.py
 - Using these stats to classify the entire datset - ClassPointsFinal.ipynb
 
-_Thanks for visiting this repository_
+_Thanks for visiting this repository._
 
 Fergus
